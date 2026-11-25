@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hady Wehbe</h1>
-<h3 align="center">Software & AI Developer Toronto</h3>
+<h3 align="center">Software & Firmware Eng</h3>
 
 - Currently building **[CramyAI](https://cramyai.com)**, an AI study app, and shipped **[PreMoss](https://premoss.com)**
 - 📫 Reach me: **hadywehbi@gmail.com** · [champhadh.com](https://champhadh.com) · [LinkedIn](https://linkedin.com/in/hady-wehbe-bab11b197)
